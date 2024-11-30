@@ -1,0 +1,9 @@
+C:\c#\sand\sand\bin\Debug\sand.exe.config
+C:\c#\sand\sand\bin\Debug\sand.exe
+C:\c#\sand\sand\bin\Debug\sand.pdb
+C:\c#\sand\sand\obj\Debug\sand.csproj.AssemblyReference.cache
+C:\c#\sand\sand\obj\Debug\sand.Properties.Resources.resources
+C:\c#\sand\sand\obj\Debug\sand.csproj.GenerateResource.cache
+C:\c#\sand\sand\obj\Debug\sand.csproj.CoreCompileInputs.cache
+C:\c#\sand\sand\obj\Debug\sand.exe
+C:\c#\sand\sand\obj\Debug\sand.pdb
